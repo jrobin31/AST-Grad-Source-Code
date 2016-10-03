@@ -1,0 +1,15 @@
+Due Thursday Feburary 17th.
+
+Problem 1: Here we explore the use of color-magnitude and color-color diagrams to compensate for the effects of dust and to infer something about Galactic structure.
+As a starting point, I have typed in the tables of intrinsic colors and absolute magnitudes for main sequence stars, and the table describing the reddening law(s) for Galactic dust-- in both cases these are the same ones I used in the class viewgraphs.
+
+a) Make a color-color diagram, plotting (U-B)_0 against (B-V)_0, for the tabulated main sequence colors.  To this diagram, add a reddening vector corresponding to a V band extinction of A_V = 1 magnitude.  Take a "standard" reddening law with R_V = 3.1.  (You will want to know that the effective wavelength of U band is 0.365 microns, that of B band is 0.44 microns, and that of V band is 0.55 microns.)
+Now, suppose you had measured (U-B) and (B-V) colors for a star in a field where you suspect there is substantial dust.  For what range of stellar types could you classify this star unambiguously based on your figure?  (Assume, for now, that you somehow know the star is on the main sequence.)
+
+b) Repeat part (a) for colors (V-R) and (R-I).  (R band is 0.7 microns, and I band is 0.9 microns.)
+
+c) Now add another reddening vector to each figure, this time for R_V = 5 (but again for A_V = 1).
+For this problem, please turn in the plots that you have generated.
+
+
+Problem 2:  Suppose you observe a cluster of stars, obtaining U, B, and V band photometry.  The measurements you make (in magnitude units) are provided in another file in this folder.  Using what you have learned in problem 1, estimate the distance to this star cluster.  Support your conclusion with plots and/or calculations as appropriate.
